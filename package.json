@@ -1,0 +1,29 @@
+{
+  "name": "banking-api-testing",
+  "version": "1.0.0",
+  "description": "API testing using cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leah-h/banking-api-testing.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "cypress",
+    "REST",
+    "API",
+    "testing"
+  ],
+  "author": "Leah Harrichand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leah-h/banking-api-testing/issues"
+  },
+  "homepage": "https://github.com/leah-h/banking-api-testing#readme",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
